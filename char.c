@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 int main()
 {
@@ -30,8 +31,7 @@ int main()
       case 8:str[i++] = "eight"; 
       break;
       case 9:str[i++] = "nine"; 
-      break;
-    }
+      break;    
   }
   for(x=i-1; x>=0; x--){
   printf ("%s ",str[x]);

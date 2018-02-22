@@ -34,5 +34,5 @@ void main()
             k=k+a[i-1];
         }
     }
-    printf("The normal value is: %d",k);
+    printf("The integer value is: %d",k);
 }
